@@ -1,0 +1,15 @@
+server:
+  port: 9000
+
+
+spring:
+  application:
+    name: spring-reactive-mapper-enum-sample
+  r2dbc:
+    url: r2dbc:h2:file:///./db-sample/testdb
+    username: h2
+    password: h2
+
+logging:
+  level:
+    org.springframework.r2dbc: DEBUG

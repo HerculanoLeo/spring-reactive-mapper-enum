@@ -155,8 +155,8 @@
             <id>github</id>
             <distributionManagement>
                 <repository>
-                    <id>github-mapper-enum</id>
-                    <url>https://maven.pkg.github.com/herculanoleo/spring-mapper-enum/</url>
+                    <id>github-reactive-mapper-enum</id>
+                    <url>https://maven.pkg.github.com/herculanoleo/spring-reactive-mapper-enum/</url>
                 </repository>
             </distributionManagement>
         </profile>
